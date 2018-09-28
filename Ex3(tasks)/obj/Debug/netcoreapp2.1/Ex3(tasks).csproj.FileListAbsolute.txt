@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\bin\Debug\netcoreapp2.1\Ex3(tasks).deps.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\bin\Debug\netcoreapp2.1\Ex3(tasks).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\bin\Debug\netcoreapp2.1\Ex3(tasks).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\bin\Debug\netcoreapp2.1\Ex3(tasks).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\bin\Debug\netcoreapp2.1\Ex3(tasks).pdb
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex3(tasks)\obj\Debug\netcoreapp2.1\Ex3(tasks).pdb

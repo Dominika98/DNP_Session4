@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\bin\Debug\netcoreapp2.1\Ex1(streaming).deps.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\bin\Debug\netcoreapp2.1\Ex1(streaming).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\bin\Debug\netcoreapp2.1\Ex1(streaming).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\bin\Debug\netcoreapp2.1\Ex1(streaming).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\bin\Debug\netcoreapp2.1\Ex1(streaming).pdb
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex1(streaming)\obj\Debug\netcoreapp2.1\Ex1(streaming).pdb

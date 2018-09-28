@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\bin\Debug\netcoreapp2.1\Ex4(networking).deps.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\bin\Debug\netcoreapp2.1\Ex4(networking).runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\bin\Debug\netcoreapp2.1\Ex4(networking).runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\bin\Debug\netcoreapp2.1\Ex4(networking).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\bin\Debug\netcoreapp2.1\Ex4(networking).pdb
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex4(networking)\obj\Debug\netcoreapp2.1\Ex4(networking).pdb

@@ -1,0 +1,27 @@
+Poprawiæ:
+-wielkoœæ napisu
+-annoucme... -> announcements
+-homeworks -> homework
+-back button
+-discussion -> add commnet -> add comment
+-discussion -> create discussion, create homework, create announcement -> eigh -> eighth
+-new ones at the bottom, not top
+-announcements not adding in the announcements section
+-important shouldn't be seperate? extra button, not with normal and parental
+-Look, unfinished seection -> can we formulate in a different way?
+-Please fill everithyng -> fill out everything, please
+-meetings, messages -to do
+-log out button?
+-add comment-> write a content -> write content
+-comment adds to more than only the chosen discussion
+-normal and parental discussions and announcements are not distiguished
+-can't edit posts and answers
+-missing fields on the right in student
+-my profile to do
+-comments in discussion from students are not showed in students (and pobably the other way around as well),
+ dunno what about in different students and different parents
+-parent can create a discussion
+
+-need instructions or descriptions everywhere
+-editing student and parent doubles it
+-deleting works sometimes (one and then not)

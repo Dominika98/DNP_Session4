@@ -1,0 +1,11 @@
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\bin\Debug\netcoreapp2.1\Ex4Client.deps.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\bin\Debug\netcoreapp2.1\Ex4Client.runtimeconfig.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\bin\Debug\netcoreapp2.1\Ex4Client.runtimeconfig.dev.json
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\bin\Debug\netcoreapp2.1\Ex4Client.dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\bin\Debug\netcoreapp2.1\Ex4Client.pdb
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.AssemblyInfo.cs
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.dll
+C:\Users\Dani\Desktop\DNP\Session4\Ex4Client\obj\Debug\netcoreapp2.1\Ex4Client.pdb
